@@ -1,2 +1,3 @@
 # CENG480
-MLProect
+
+Çankaya University Machine Learning lecture project
